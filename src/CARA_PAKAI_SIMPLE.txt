@@ -1,0 +1,60 @@
+========================================
+  CARA PAKAI PORTFOLIO SIMPLE
+========================================
+
+SUPER MUDAH! Hanya 2 Langkah:
+
+1. Buka file "portfolio-simple.html" 
+2. Klik 2x atau Drag ke browser
+
+SELESAI! ✅
+
+========================================
+
+Tidak perlu:
+❌ Install Node.js
+❌ Install npm
+❌ npm install
+❌ npm run dev
+❌ Konfigurasi apapun
+
+Langsung buka di browser:
+✅ Google Chrome
+✅ Firefox
+✅ Edge
+✅ Safari
+
+========================================
+
+MENGGANTI FOTO PROFIL:
+
+1. Buka file "portfolio-simple.html" dengan text editor (Notepad, VS Code, dll)
+2. Cari baris yang ada emoji "👨‍💻"
+3. Ganti dengan:
+   <img src="foto-anda.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+4. Taruh foto Anda di folder yang sama dengan nama "foto-anda.jpg"
+5. Save dan refresh browser
+
+========================================
+
+MENGGANTI INFO PRIBADI:
+
+Buka file dengan text editor dan cari:
+- "Jardel Poliviera" → Ganti dengan nama Anda
+- "2411533012" → Ganti dengan NIM Anda  
+- "Universitas Andalas" → Ganti dengan universitas Anda
+- "jardel@example.com" → Ganti dengan email Anda
+- "+62 812-3456-7890" → Ganti dengan nomor Anda
+
+========================================
+
+TIPS:
+
+• File ini bisa dibuka OFFLINE (tanpa internet)
+• Bisa dicopy ke USB dan langsung dibuka di komputer lain
+• Bisa diupload ke hosting gratis (Netlify, Vercel, GitHub Pages)
+• Responsive (otomatis menyesuaikan di HP)
+
+========================================
+
+Selamat menggunakan! 🎉
